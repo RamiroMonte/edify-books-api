@@ -15,8 +15,6 @@ Projeto desenvolvido como exercício Take-Home.
 
 ## Testar o projeto
 
-Inicie primeiramente a API. [Instruções neste link.](https://github.com/RamiroMonte/edify-books-api)
-
 Para executar o projeto em modo de desenvolvimento, baixe o projeto com git clone, acesse a pasta do projeto, instale as dependências e execute os comandos abaixo:
 
 Inicar o Banco de Dados com Docker
@@ -51,3 +49,5 @@ Usuário Test:
     "password": "books123"
 }
 ```
+
+Projeto Frontend. [Instruções neste link.](https://github.com/RamiroMonte/edify-book-front)
